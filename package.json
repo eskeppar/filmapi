@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eskeppar/filmapi/issues"
   },
-  "homepage": "https://github.com/eskeppar/filmapi#readme"
+  "homepage": "https://github.com/eskeppar/filmapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
